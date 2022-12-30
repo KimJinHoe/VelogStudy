@@ -37,6 +37,8 @@ Velog 공부 카테고리 정리
 [Call by Value/Reference](https://velog.io/@kku64r/callbyvalue)  
 [오버로딩 vs 오버라이딩](https://velog.io/@kku64r/overroading)
 
+### Git
+[git branch 전략](https://velog.io/@kku64r/gitbranch)
 ---
 ### 학습 정리 (실습내용)
 [Vue3](https://velog.io/@kku64r/vue3)  
