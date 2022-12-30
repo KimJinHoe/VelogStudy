@@ -1,45 +1,52 @@
 # VelogStudy
 Velog 공부 카테고리 정리
 
+---
 ### Network
-[TCP vs UDP](https://velog.io/@kku64r/tcpudp)
+[TCP vs UDP](https://velog.io/@kku64r/tcpudp)  
 [HTTP vs HTTPS](https://velog.io/@kku64r/http)
 
+---
 ### 자료구조 / 알고리즘
-[정렬 알고리즘 종류](https://velog.io/@kku64r/sort)
-[CPU 스케줄링](https://velog.io/@kku64r/scheduling)
-[암호화 알고리즘](https://velog.io/@kku64r/encrypt)
+[정렬 알고리즘 종류](https://velog.io/@kku64r/sort)  
+[CPU 스케줄링](https://velog.io/@kku64r/scheduling)  
+[암호화 알고리즘](https://velog.io/@kku64r/encrypt)  
 [레드블랙트리](https://velog.io/@kku64r/rbtree)
 
+---
 ### Database
-[RDBMS vs Nosql](https://velog.io/@kku64r/db)
-[정규화 vs 역정규화](https://velog.io/@kku64r/normalization)
-[인덱스](https://velog.io/@kku64r/index)
-[넌/클러스터드 인덱스](https://velog.io/@kku64r/clusteredindex)
-[DB파티셔닝](https://velog.io/@kku64r/partitioning)
+[RDBMS vs Nosql](https://velog.io/@kku64r/db)  
+[정규화 vs 역정규화](https://velog.io/@kku64r/normalization)  
+[인덱스](https://velog.io/@kku64r/index)  
+[넌/클러스터드 인덱스](https://velog.io/@kku64r/clusteredindex)  
+[DB파티셔닝](https://velog.io/@kku64r/partitioning)  
 [트랜잭션](https://velog.io/@kku64r/transaction)
 
+---
 ### 백엔드
-[JPA N+1](https://velog.io/@kku64r/nplus1)
-[Mybatis vs JPA](https://velog.io/@kku64r/mybatisjpa)
-[MapStruct](https://velog.io/@kku64r/mapstruct)
+[JPA N+1](https://velog.io/@kku64r/nplus1)  
+[Mybatis vs JPA](https://velog.io/@kku64r/mybatisjpa)  
+[MapStruct](https://velog.io/@kku64r/mapstruct)  
 [Maven vs Gradle](https://velog.io/@kku64r/gradle)
 
-
+---
 ### CS
-[로드밸런싱](https://velog.io/@kku64r/loadbalancing-ooe7ns6z)
-[Nginx](https://velog.io/@kku64r/nginx)
-[MSA](https://velog.io/@kku64r/msa)
-[Call by Value/Reference](https://velog.io/@kku64r/callbyvalue)
+[로드밸런싱](https://velog.io/@kku64r/loadbalancing-ooe7ns6z)  
+[Nginx](https://velog.io/@kku64r/nginx)  
+[MSA](https://velog.io/@kku64r/msa)  
+[Call by Value/Reference](https://velog.io/@kku64r/callbyvalue)  
 [오버로딩 vs 오버라이딩](https://velog.io/@kku64r/overroading)
 
-### CS 요약 정리
-[CS 질문 요약 정리](https://velog.io/@kku64r/interview)
+---
 ### 학습 정리 (실습내용)
-[Vue3](https://velog.io/@kku64r/vue3)
-[JPA](https://velog.io/@kku64r/jpa)
-[도커](https://velog.io/@kku64r/docker)
-[AWS EC2](https://velog.io/@kku64r/awsec2)
-[젠킨스](https://velog.io/@kku64r/jenkins)
-[gitflow](https://velog.io/@kku64r/gitflow)
+[Vue3](https://velog.io/@kku64r/vue3)  
+[JPA](https://velog.io/@kku64r/jpa)  
+[도커](https://velog.io/@kku64r/docker)  
+[AWS EC2](https://velog.io/@kku64r/awsec2)  
+[젠킨스](https://velog.io/@kku64r/jenkins)  
+[gitflow](https://velog.io/@kku64r/gitflow)  
 [EC2 프리티어 오류](https://velog.io/@kku64r/ec2freetier)
+
+---
+### CS 요약 정리
+[CS 질문 요약 정리](https://velog.io/@kku64r/interview)  
