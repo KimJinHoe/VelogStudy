@@ -28,6 +28,7 @@ Velog 공부 카테고리 정리
 [Mybatis vs JPA](https://velog.io/@kku64r/mybatisjpa)  
 [MapStruct](https://velog.io/@kku64r/mapstruct)  
 [Maven vs Gradle](https://velog.io/@kku64r/gradle)
+[엘라스틱서치](https://velog.io/@kku64r/elasticsearch)
 
 ---
 ### CS
