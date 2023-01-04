@@ -27,7 +27,7 @@ Velog 공부 카테고리 정리
 [JPA N+1](https://velog.io/@kku64r/nplus1)  
 [Mybatis vs JPA](https://velog.io/@kku64r/mybatisjpa)  
 [MapStruct](https://velog.io/@kku64r/mapstruct)  
-[Maven vs Gradle](https://velog.io/@kku64r/gradle)
+[Maven vs Gradle](https://velog.io/@kku64r/gradle)  
 [엘라스틱서치](https://velog.io/@kku64r/elasticsearch)
 
 ---
@@ -38,8 +38,11 @@ Velog 공부 카테고리 정리
 [Call by Value/Reference](https://velog.io/@kku64r/callbyvalue)  
 [오버로딩 vs 오버라이딩](https://velog.io/@kku64r/overroading)
 
+---
 ### Git
-[git branch 전략](https://velog.io/@kku64r/gitbranch)
+[git branch 전략](https://velog.io/@kku64r/gitbranch)  
+[git 명령어 정리](https://velog.io/@kku64r/gitcommand)
+
 ---
 ### 학습 정리 (실습내용)
 [Vue3](https://velog.io/@kku64r/vue3)  
