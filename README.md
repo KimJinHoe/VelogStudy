@@ -53,6 +53,7 @@ Velog 공부 카테고리 정리
 [젠킨스](https://velog.io/@kku64r/jenkins)  
 [gitflow](https://velog.io/@kku64r/gitflow)  
 [EC2 프리티어 오류](https://velog.io/@kku64r/ec2freetier)
+[가비아 도메인 구매 및 연결, HTTPS 설정](https://velog.io/@kku64r/domainconnet)
 
 ---
 ### CS 요약 정리
