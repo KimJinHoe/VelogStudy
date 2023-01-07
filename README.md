@@ -37,7 +37,8 @@ Velog 공부 카테고리 정리
 [Nginx](https://velog.io/@kku64r/nginx)  
 [MSA](https://velog.io/@kku64r/msa)  
 [Call by Value/Reference](https://velog.io/@kku64r/callbyvalue)  
-[오버로딩 vs 오버라이딩](https://velog.io/@kku64r/overroading)
+[오버로딩 vs 오버라이딩](https://velog.io/@kku64r/overroading)  
+[프로세스 vs 스레드](https://velog.io/@kku64r/processthread)
 
 ---
 ### Git
