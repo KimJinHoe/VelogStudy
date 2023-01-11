@@ -60,3 +60,7 @@ Velog 공부 카테고리 정리
 ---
 ### CS 요약 정리
 [CS 질문 요약 정리](https://velog.io/@kku64r/interview)  
+
+---
+### 그 외 사항
+[다음 쓸 예정(비공개)](https://velog.io/@kku64r/next)
