@@ -63,4 +63,5 @@ Velog 공부 카테고리 정리
 
 ---
 ### 그 외 사항
+[자바 효율적인 입력 (백준)](https://velog.io/@kku64r/read)  
 [다음 쓸 예정(비공개)](https://velog.io/@kku64r/next)
