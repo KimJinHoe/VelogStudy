@@ -40,7 +40,8 @@ Velog 공부 카테고리 정리
 [오버로딩 vs 오버라이딩](https://velog.io/@kku64r/overroading)  
 [프로세스 vs 스레드](https://velog.io/@kku64r/processthread)  
 [페이징](https://velog.io/@kku64r/paging)  
-[경쟁상태, 교착상태, 기아상태](https://velog.io/@kku64r/deadlock)
+[경쟁상태, 교착상태, 기아상태](https://velog.io/@kku64r/deadlock)  
+[세마포어 뮤텍스](https://velog.io/@kku64r/mutex)
 
 ---
 ### Git
