@@ -21,7 +21,8 @@ Velog 공부 카테고리 정리
 [넌/클러스터드 인덱스](https://velog.io/@kku64r/clusteredindex)  
 [DB파티셔닝](https://velog.io/@kku64r/partitioning)  
 [트랜잭션](https://velog.io/@kku64r/transaction)  
-[Redis란? HA를 위한 Redis 아키텍처](https://velog.io/@kku64r/redis)
+[Redis란? HA를 위한 Redis 아키텍처](https://velog.io/@kku64r/redis)  
+[조인 vs 서브쿼리](https://velog.io/@kku64r/joinsubquery)
 
 ---
 ### 백엔드
